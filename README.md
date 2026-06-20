@@ -1,5 +1,12 @@
+<p align="center">me & @vankitorii</p>
+<p align="center">(not a ship)</p>
 
-[![clouti](https://file.garden/Z5NSIorck0l4hbQz/Untitled60_20260320031000.png)](https://yakii.atabook.org)
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eversleeping-town&style=plastic&color=yellow&label=ANGELS&base=11337&abbreviated=true" alt="GitHub Profile Views" />
+  <img src="https://file.garden/Z5NSIorck0l4hbQz/Untitled10_20260620032913.png" width="300">
 </p>
+
+
+<p align="center">
+  <a href="https://yakii.atabook.org">Atabook</a>   <a href="https://dollwong.carrd.co">Carrd</a>
+</p>
+
