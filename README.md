@@ -1,4 +1,6 @@
-<p align="center">me & @vankitorii</p>
+<p align="center">
+  me & <a href="https://github.com/vankitorii">@vankitorii</a>
+</p>
 <p align="center">(not a ship)</p>
 
 <p align="center">
