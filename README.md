@@ -16,8 +16,5 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/pt-loveforfictional">pt-loveforfictional</a>   <a href="https://github.com/title-town">title-town</a>   <a href="https://github.com/ponychievements">ponychievements</a> <a href="https://github.com/ponytown-nominations">ponytown-nominations</a>
-</p>
-<p align="center">
-  <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> <a href="https://github.com/ponytowncosplayers">ponytowncosplayers</a> <a href="https://github.com/pt-contributers">pt-contributers</a> ♡
+  <a href="https://github.com/pt-loveforfictional">pt-loveforfictional</a>   <a href="https://github.com/title-town">title-town</a>   <a href="https://github.com/ponychievements">ponychievements</a> <a href="https://github.com/ponytown-nominations">ponytown-nominations</a> <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a> <a href="https://github.com/ponytowncosplayers">ponytowncosplayers</a> <a href="https://github.com/pt-contributers">pt-contributers</a> ♡
 </p>
