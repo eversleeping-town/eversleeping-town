@@ -8,7 +8,9 @@
 
 <p align="center">
   <a href="https://yakii.atabook.org">Atabook</a>  <a href="https://dollwong.carrd.co">Carrd</a>
+</p>
 
+<p align="center">
   <a href="https://preciiously.carrd.co/">Shared ♡</a>
 </p>
 
